@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/Df7O4wH' title='Demo for Codepath' />
+<img src='https://i.imgur.com/k54n83C.gifv' title='Demo for Codepath' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
